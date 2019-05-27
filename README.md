@@ -1,0 +1,1 @@
+# Static-Pokemon-News
